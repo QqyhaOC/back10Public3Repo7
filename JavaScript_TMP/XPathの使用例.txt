@@ -1,0 +1,119 @@
+﻿$BASE_URL/ = https://catai.cc/service/api/
+
+ https://catai.cc/service/api/apis/projects/b5eb4d7b-ba2c-4595-8c9b-e05119a68e68/log/
+
+apis/projects/:projectId/log/
+
+:projectId b5eb4d7b-ba2c-4595-8c9b-e05119a68e68
+
+
+// let htst="<tbody>
+// <tr class="odd">
+// <td style="text-align:center;">1位</td>
+// <td style="text-align:center;"><a href="searchResult.htm?myojiKanji=%E4%BD%90%E8%97%A4">佐藤</a></td>
+// <td style="text-align:center;">およそ1,842,000人</td>
+// </tr>
+// <tr class="odd">
+// <td style="text-align:center;">2位</td>
+// <td style="text-align:center;"><a href="searchResult.htm?myojiKanji=%E9%88%B4%E6%9C%A8">鈴木</a></td>
+// <td style="text-align:center;">およそ1,778,000人</td>
+// </tr>
+// <tr class="odd">
+// <td style="text-align:center;">3位</td>
+// <td style="text-align:center;"><a href="searchResult.htm?myojiKanji=%E9%AB%98%E6%A9%8B">高橋</a></td>
+// <td style="text-align:center;">およそ1,392,000人</td>
+// </tr>
+// <tr class="odd">
+// <td style="text-align:center;">4位</td>
+// <td style="text-align:center;"><a href="searchResult.htm?myojiKanji=%E7%94%B0%E4%B8%AD">田中</a></td>
+// <td style="text-align:center;">およそ1,320,000人</td>
+// </tr>
+// <tr class="odd">
+// <td style="text-align:center;">5位</td>
+// <td style="text-align:center;"><a href="searchResult.htm?myojiKanji=%E4%BC%8A%E8%97%A4">伊藤</a></td>
+// <td style="text-align:center;">およそ1,060,000人</td>
+// </tr>
+// <tr class="odd">
+// <td style="text-align:center;">6位</td>
+// <td style="text-align:center;"><a href="searchResult.htm?myojiKanji=%E6%B8%A1%E8%BE%BA">渡辺</a></td>
+// <td style="text-align:center;">およそ1,050,000人</td>
+// </tr>
+// <tr class="odd">
+// <td style="text-align:center;">7位</td>
+// <td style="text-align:center;"><a href="searchResult.htm?myojiKanji=%E5%B1%B1%E6%9C%AC">山本</a></td>
+// <td style="text-align:center;">およそ1,036,000人</td>
+// </tr>
+// <tr class="odd">
+// <td style="text-align:center;">8位</td>
+// <td style="text-align:center;"><a href="searchResult.htm?myojiKanji=%E4%B8%AD%E6%9D%91">中村</a></td>
+// <td style="text-align:center;">およそ1,032,000人</td>
+// </tr>
+// <tr class="odd">
+// <td style="text-align:center;">9位</td>
+// <td style="text-align:center;"><a href="searchResult.htm?myojiKanji=%E5%B0%8F%E6%9E%97">小林</a></td>
+// <td style="text-align:center;">およそ1,016,000人</td>
+// </tr>
+// <tr class="odd">
+// <td style="text-align:center;">10位</td>
+// <td style="text-align:center;"><a href="searchResult.htm?myojiKanji=%E5%8A%A0%E8%97%A4">加藤</a></td>
+// <td style="text-align:center;">およそ878,000人</td>
+// </tr>
+// <tr class="odd">
+// <td style="text-align:center;">11位</td>
+// <td style="text-align:center;"><a href="searchResult.htm?myojiKanji=%E5%90%89%E7%94%B0">吉田</a></td>
+// <td style="text-align:center;">およそ818,000人</td>
+// </tr>
+// <tr class="odd">
+// <td style="text-align:center;">12位</td>
+// <td style="text-align:center;"><a href="searchResult.htm?myojiKanji=%E5%B1%B1%E7%94%B0">山田</a></td>
+// <td style="text-align:center;">およそ804,000人</td>
+// </tr>
+// <tr class="odd">
+// <td style="text-align:center;">13位</td>
+// <td style="text-align:center;"><a href="searchResult.htm?myojiKanji=%E4%BD%90%E3%80%85%E6%9C%A8">佐々木</a></td>
+// <td style="text-align:center;">およそ661,000人</td>
+// </tr>
+// <tr class="odd">
+// <td style="text-align:center;">14位</td>
+// <td style="text-align:center;"><a href="searchResult.htm?myojiKanji=%E5%B1%B1%E5%8F%A3">山口</a></td>
+// <td style="text-align:center;">およそ635,000人</td>
+// </tr>
+// <tr class="odd">
+// <td style="text-align:center;">15位</td>
+// <td style="text-align:center;"><a href="searchResult.htm?myojiKanji=%E6%9D%BE%E6%9C%AC">松本</a></td>
+// <td style="text-align:center;">およそ619,000人</td>
+// </tr>
+// <tr class="odd">
+// <td style="text-align:center;">16位</td>
+// <td style="text-align:center;"><a href="searchResult.htm?myojiKanji=%E4%BA%95%E4%B8%8A">井上</a></td>
+// <td style="text-align:center;">およそ607,000人</td>
+// </tr>
+// <tr class="odd">
+// <td style="text-align:center;">17位</td>
+// <td style="text-align:center;"><a href="searchResult.htm?myojiKanji=%E6%9C%A8%E6%9D%91">木村</a></td>
+// <td style="text-align:center;">およそ568,000人</td>
+// </tr>
+// <tr class="odd">
+// <td style="text-align:center;">18位</td>
+// <td style="text-align:center;"><a href="searchResult.htm?myojiKanji=%E6%9E%97">林</a></td>
+// <td style="text-align:center;">およそ539,000人</td>
+// </tr>
+// <tr class="odd">
+// <td style="text-align:center;">19位</td>
+// <td style="text-align:center;"><a href="searchResult.htm?myojiKanji=%E6%96%8E%E8%97%A4">斎藤</a></td>
+// <td style="text-align:center;">およそ535,000人</td>
+// </tr>
+// <tr class="odd">
+// <td style="text-align:center;">20位</td>
+// <td style="text-align:center;"><a href="searchResult.htm?myojiKanji=%E6%B8%85%E6%B0%B4">清水</a></td>
+// <td style="text-align:center;">およそ526,000人</td>
+// </tr>
+// </tbody>";
+
+
+// a[@href]/text()
+
+let nameArOne=["佐藤,鈴木,高橋,田中,伊藤,渡辺,山本,中村,小林,加藤,吉田,山田,佐々木,山口,松本,井上,木村,林,斎藤,清水"];  console.log(nameArOne[0].split(','));
+
+let nameArOne="佐藤,鈴木,高橋,田中,伊藤,渡辺,山本,中村,小林,加藤,吉田,山田,佐々木,山口,松本,井上,木村,林,斎藤,清水";   console.log(nameArOne.split(','));
+
